@@ -10,7 +10,14 @@ This list can help any dev save hours or even days of development time and can a
 
 # Contents
 
+- [WebApp Templates](#WebApp-Templates)
 - [Hackathon Starters](#Hackathon-Starters)
+
+## WebApp Templates
+- [WIX](https://www.wix.com/) - Wix provides cloud-based web development services that gives you the freedom to create, design, manage and develop your web presence exactly the way you want
+- [HTML5UP](https://html5up.net/) - .Makes spiffy HTML5 site templates that are Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable
+- [StartBootstrap](https://startbootstrap.com/) - Develops free to download, open source Bootstrap4 themes, templates, and snippets and creates guides and tutorials to help you learn more about designing and developing with Bootstrap.
+- [ColorLib](https://themewagon.com/author/kimlabs/) - Get the exclusive free HTML5 templates designed with Bootstrap, CSS3, jQuery from ThemeWagon. They offer comprehensive yet easy to follow guides well suited for beginner bloggers.
 
 ## Hackathon Starters
 - [Node Boilerplate](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
