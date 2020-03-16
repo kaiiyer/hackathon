@@ -2,35 +2,43 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 
-*A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. This list aims to help starters as well as pros to test out and enhance their penetration skills.*
+*A curated list of templates and resources which can be used as a starter pack for hackathon. This list aims to help starters as well as pros to get started with project development without wasting time on environment setup and package instalations.*
+
+If you have attended any hackathons in the past, then you know how much time it takes to get a project started: decide on what to build, pick a programming language, pick a web framework, pick a CSS framework. A while later, you might have an initial project up on GitHub and only then can other team members start contributing. Or how about doing something as simple as Sign in with Facebook authentication? You can spend hours on it if you are not familiar with how OAuth 2.0 works.
+
+When I started this project, my primary focus was on simplicity and ease of use. I also tried to make it as generic and reusable as possible to cover most use cases of hackathon web apps, without being too specific. In the worst case, you can use this as a learning guide for your projects, if for example you are only interested in Sign in with Google authentication and nothing else.
 
 # Contents
 
 - [Vulnerable Web Applications](#Vulnerable-Web-Applications)
 - [Sites by Vendors of Security Testing Software](#Sites-by-Vendors-of-Security-Testing-Software)
-- [Sites for Downloading Older Versions of Various Software](#Sites-for-Downloading-Older-Versions-of-Various-Software)
-- [Sites for Improving Your Hacking Skills](#Sites-for-Improving-Your-Hacking-Skills)
+- [Hackathon Starters](#Hackathon-Starters)
 
 
 ### Sites for Downloading Older Versions of Various Software
 - [Exploit-DB 	](http://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services.
-- [Old Apps 	](http://www.oldapps.com/) - Provide our users with a wide assortment of current versions of familiar software, and their predecessors for free.
+
 
 
 ## Sites for Improving Your Hacking Skills
 - [Embedded Security CTF 	](https://microcorruption.com)
-- [EnigmaGroup 	](http://www.enigmagroup.org/)
-- [Escape 	](http://escape.alf.nu/)
-- [GXSS This? 	](http://canyouxssthis.com/HTMLSanitizer/) - Use HTMLSanitizer to protect your Web Apps
-- [XSS Game 	](https://xss-game.appspot.com/) - Learn to find and exploit XSS bugs
-- [XSS: ProgPHP 	](http://xss.progphp.com/) - Next-Gen Domain Registration. Progphp.com is coming soon !
 
 ### Labs
 - [CTFd 	](https://github.com/isislab/CTFd) - CTFs as you need them
 - [Mellivora 	](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP 
 -
-## Mobile Apps
-- [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
-
+## Hackathon Starters
+- [Node Boilerplate](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
+- [Django Boilerplate](https://github.com/kaiiyer/django-hackathon-starter) - A boilerplate for Django web applications
+- [Laravel Boilerplate](https://github.com/unicodeveloper/laravel-hackathon-starter) - A boilerplate application developed with Laravel 5.2 to keep you ahead in hackathons
+- [Flask Boilerplate](https://github.com/MLH/mlh-hackathon-flask-starter) - A hackathon boilerplate for new Flask web applications created by Major League Hacking
+- [AdonisJS Boilerplate](https://github.com/iamraphson/adonisjs-hackathon-starter) - A boilerplate application developed with AdonisJS 4.0 to keep you ahead in hackathons
+- [Node-Typescript/Express Starter Kit](https://github.com/nerdeveloper/hackathon-starter-kit) - A Node-Typescript/Express Boilerplate with Authentication(Local, Github, Facebook, Twitter, Google, LinkedIn, Dropbox, Slack, Discord), Authorization, and CRUD functionality + PWA Support
+- [Express Starter](https://github.com/yhnavein/express-starter) - A boilerplate for Node.js web applications, which use RDBS (relational database system) with prefered PostgreSQL instead of overhyped MongoDB
+- [PHP(Symfony) Hackathon Starter](https://github.com/yemiwebby/symfony-hackathon-starter) - Symfony Hackathon Starter is a boilerplate application developed with Symfony 4 to keep you ahead in hackathons
+- [iOS Hackathon Starter](https://github.com/tattn/HackathonStarter) - Hackathon starter kit for iOS
+- [VuejsFire Hackathon Starter](https://github.com/chinchang/vuejsfire-hackathon-starter) - VuejsvFire is a project starter kit based on Vue.js framework and Firebase as backend
+- [Rails Hackathon Starter](https://github.com/goofmint/hackathon-starter-rails) - Hackathon starter for Rails developer
+- [Blockstack Starter Kit](https://github.com/MLH/mlh-hackathon-blockstack-starter) - A hackathon boilerplate for a new Blockstack application created by Major League Hacking in partnership with Blockstack.
 
 Contributions are always appreciated
