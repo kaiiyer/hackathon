@@ -10,21 +10,8 @@ This list can help any dev save hours or even days of development time and can a
 
 # Contents
 
-- [Vulnerable](#Vulnerable-Web-Applications)
-- [Sites ](#Sites-by-Vendors-of-Security-Testing-Software)
 - [Hackathon Starters](#Hackathon-Starters)
 
-
-### Sites for
-- [Exploit-DB 	](http://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services
-
-## Sites for 
-- [Embedded Security CTF 	](https://microcorruption.com)
-
-### Labs
-- [CTFd 	](https://github.com/isislab/CTFd) - CTFs as you need them
-- [Mellivora 	](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP 
--
 ## Hackathon Starters
 - [Node Boilerplate](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [Django Boilerplate](https://github.com/kaiiyer/django-hackathon-starter) - A boilerplate for Django web applications
@@ -38,6 +25,5 @@ This list can help any dev save hours or even days of development time and can a
 - [Node-Typescript/Express Starter Kit](https://github.com/nerdeveloper/hackathon-starter-kit) - A Node-Typescript/Express Boilerplate with Authentication(Local, Github, Facebook, Twitter, Google, LinkedIn, Dropbox, Slack, Discord), Authorization, and CRUD functionality + PWA Support
 - [Blockstack Starter Kit](https://github.com/MLH/mlh-hackathon-blockstack-starter) - A hackathon boilerplate for a new Blockstack application created by Major League Hacking in partnership with Blockstack.
 - [PHP(Symfony) Hackathon Starter](https://github.com/yemiwebby/symfony-hackathon-starter) - Symfony Hackathon Starter is a boilerplate application developed with Symfony 4 to keep you ahead in hackathons
-
 
 Contributions are always appreciated
