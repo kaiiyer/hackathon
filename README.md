@@ -12,6 +12,7 @@ This list can help any dev save hours or even days of development time and can a
 
 - [WebApp Templates](#WebApp-Templates)
 - [Hackathon Starters](#Hackathon-Starters)
+- [Hackathon Administration](#Hackathon-Administration)
 
 ## WebApp Templates
 - [WIX](https://www.wix.com/) - Wix provides cloud-based web development services that gives you the freedom to create, design, manage and develop your web presence exactly the way you want
@@ -26,12 +27,27 @@ This list can help any dev save hours or even days of development time and can a
 - [Flask Boilerplate](https://github.com/MLH/mlh-hackathon-flask-starter) - A hackathon boilerplate for new Flask web applications created by Major League Hacking
 - [AdonisJS Boilerplate](https://github.com/iamraphson/adonisjs-hackathon-starter) - A boilerplate application developed with AdonisJS 4.0 to keep you ahead in hackathons
 - [Express Boilerplate](https://github.com/yhnavein/express-starter) - A boilerplate for Node.js web applications, which use RDBS (relational database system) with prefered PostgreSQL instead of overhyped MongoDB
+- [Android Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture
+- [Kotlin Boilerplate](https://github.com/Plastix/Kotlin-Android-Boilerplate) - Kotlin Android boilerplate project with MVVM architecture using RxJava, Dagger 2, and more
+- [Go Blueprint](https://github.com/MartinHeinz/go-project-blueprint) - A Blueprint/Boilerplate For Golang Projects
+- [Oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+- [Meteor Boilerplate](https://github.com/matteodem/meteor-boilerplate) - A lightweight boilerplate for meteor projects
 - [iOS Hackathon Starter](https://github.com/tattn/HackathonStarter) - Hackathon starter kit for iOS
 - [VuejsFire Hackathon Starter](https://github.com/chinchang/vuejsfire-hackathon-starter) - VuejsvFire is a project starter kit based on Vue.js framework and Firebase as backend
 - [Rails Hackathon Starter](https://github.com/goofmint/hackathon-starter-rails) - Hackathon starter for Rails developer
+- [Suspenders](https://github.com/thoughtbot/suspenders) - A Rails template with our standard defaults, ready to deploy to Heroku
 - [Node-Typescript/Express Starter Kit](https://github.com/nerdeveloper/hackathon-starter-kit) - A Node-Typescript/Express Boilerplate with Authentication(Local, Github, Facebook, Twitter, Google, LinkedIn, Dropbox, Slack, Discord), Authorization, and CRUD functionality + PWA Support
 - [Blockstack Starter Kit](https://github.com/MLH/mlh-hackathon-blockstack-starter) - A hackathon boilerplate for a new Blockstack application created by Major League Hacking in partnership with Blockstack.
 - [PHP(Symfony) Hackathon Starter](https://github.com/yemiwebby/symfony-hackathon-starter) - Symfony Hackathon Starter is a boilerplate application developed with Symfony 4 to keep you ahead in hackathons
+
+
+## Hackathon Administration
+- [Quill](https://github.com/techx/quill) - Quill is a registration system designed especially for hackathons. For hackers, it’s a clean and streamlined interface to submit registration and confirmation information. For hackathon organizers, it’s an easy way to manage applications, view registration stats, and more!
+- [HackAssistant](https://github.com/HackAssistant/registration) - A Hackathon registration server with collaboration from HackCU
+- [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - LaraHack is a complete administration systems designed especially for hackathons and similar competitions
+- [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) - All-in-one platform for hackathon registration & logistics
+- [Gavel](https://github.com/anishathalye/gavel) - Gavel is a project expo judging system
+
 
 Contributions are always appreciated
 
