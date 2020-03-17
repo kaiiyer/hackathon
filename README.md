@@ -35,5 +35,5 @@ This list can help any dev save hours or even days of development time and can a
 
 Contributions are always appreciated
 
-Credits:
+### Credits:
 A big thanks to [Amy Chan](https://github.com/ANAMIKAPISHARODY)
