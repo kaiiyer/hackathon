@@ -34,3 +34,6 @@ This list can help any dev save hours or even days of development time and can a
 - [PHP(Symfony) Hackathon Starter](https://github.com/yemiwebby/symfony-hackathon-starter) - Symfony Hackathon Starter is a boilerplate application developed with Symfony 4 to keep you ahead in hackathons
 
 Contributions are always appreciated
+
+Credits:
+A big thanks to [Amy Chan](https://github.com/ANAMIKAPISHARODY)
