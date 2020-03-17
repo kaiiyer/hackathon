@@ -18,6 +18,7 @@ This list can help any dev save hours or even days of development time and can a
 ## WebApp Templates
 - [WIX](https://www.wix.com/) - Wix provides cloud-based web development services that gives you the freedom to create, design, manage and develop your web presence exactly the way you want
 - [HTML5UP](https://html5up.net/) - .Makes spiffy HTML5 site templates that are Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable
+- [IM FREE](http://imcreator.com/free) - A curated collection of free web design resources, all for commercial use.
 - [StartBootstrap](https://startbootstrap.com/) - Develops free to download, open source Bootstrap4 themes, templates, and snippets and creates guides and tutorials to help you learn more about designing and developing with Bootstrap.
 - [ColorLib](https://themewagon.com/author/kimlabs/) - Get the exclusive free HTML5 templates designed with Bootstrap, CSS3, jQuery from ThemeWagon. They offer comprehensive yet easy to follow guides well suited for beginner bloggers.
 
@@ -41,23 +42,28 @@ This list can help any dev save hours or even days of development time and can a
 - [Blockstack Starter Kit](https://github.com/MLH/mlh-hackathon-blockstack-starter) - A hackathon boilerplate for a new Blockstack application created by Major League Hacking in partnership with Blockstack.
 - [PHP(Symfony) Hackathon Starter](https://github.com/yemiwebby/symfony-hackathon-starter) - Symfony Hackathon Starter is a boilerplate application developed with Symfony 4 to keep you ahead in hackathons
 
-
 ## Hackathon Administration
 - [Quill](https://github.com/techx/quill) - Quill is a registration system designed specially for hackathon hackers as well as for hackathon organizers
 - [HackAssistant](https://github.com/HackAssistant/registration) - A Hackathon registration server with collaboration from HackCU
 - [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - LaraHack is a complete administration systems designed especially for hackathons and similar competitions
 - [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) - All-in-one platform for hackathon registration & logistics
 - [Gavel](https://github.com/anishathalye/gavel) - Gavel is a project expo judging system
+- [Expo](https://github.com/nealrs/expo) - An expo / table numbers app for your Devpost hackathon
 
 ## Free Resources
+### General
 - [Typeform](https://www.typeform.com/) - Typeform specializes in online form building and online surveys. It creates dynamic forms based on user needs
 - [ElephantSQL](https://customer.elephantsql.com/subscription/create?plan=turtle) -  PostgreSQL as a Service. Perfectly configured and optimized PostgreSQL databases ready in 2 minutes
 - [Obvibase](https://www.obvibase.com/) -  Obvibase makes creating an online database as easy and fast as creating a spreadsheet
+
+
+### Learn
+- [Noexcuselist](http://noexcuselist.com/) - The best place on the web to learn anything for free
+- [Theodinproject](https://www.theodinproject.com/) - Learn everything you need to know to become a <b>web developer</b>
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
-- [Theodinproject](https://www.theodinproject.com/) - Learn everything you need to know to become a web developer
 - [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code for free by creating thousands of videos, articles, and interactive coding lessons
 
-https://www.obvibase.com/Contributions are always appreciated
+Contributions are always appreciated
 
 ### Credits:
 A big thanks to [Amy Chan](https://github.com/ANAMIKAPISHARODY)
