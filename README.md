@@ -6,13 +6,14 @@
 
 If you have attended any hackathons in the past, then you know how much time it takes to get a project started: decide on what to build, pick a programming language, pick a web framework, pick a CSS framework. A while later, you might have an initial project up on GitHub and only then can other team members start contributing. Or how about doing something as simple as Sign in with Facebook authentication? You can spend hours on it if you are not familiar with how OAuth 2.0 works.
 
-This list can help any dev save hours or even days of development time and can also serve as a learning guide for web developers.
+This list can help any dev save hours or even days of development time and can also serve as a learning guide for hackers.
 
 # Contents
 
 - [WebApp Templates](#WebApp-Templates)
 - [Hackathon Starters](#Hackathon-Starters)
 - [Hackathon Administration](#Hackathon-Administration)
+- [Free Resources](#Free-Resources)
 
 ## WebApp Templates
 - [WIX](https://www.wix.com/) - Wix provides cloud-based web development services that gives you the freedom to create, design, manage and develop your web presence exactly the way you want
@@ -42,14 +43,21 @@ This list can help any dev save hours or even days of development time and can a
 
 
 ## Hackathon Administration
-- [Quill](https://github.com/techx/quill) - Quill is a registration system designed especially for hackathons. For hackers, it’s a clean and streamlined interface to submit registration and confirmation information. For hackathon organizers, it’s an easy way to manage applications, view registration stats, and more!
+- [Quill](https://github.com/techx/quill) - Quill is a registration system designed specially for hackathon hackers as well as for hackathon organizers
 - [HackAssistant](https://github.com/HackAssistant/registration) - A Hackathon registration server with collaboration from HackCU
 - [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - LaraHack is a complete administration systems designed especially for hackathons and similar competitions
 - [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) - All-in-one platform for hackathon registration & logistics
 - [Gavel](https://github.com/anishathalye/gavel) - Gavel is a project expo judging system
 
+## Free Resources
+- [Typeform](https://www.typeform.com/) - Typeform specializes in online form building and online surveys. It creates dynamic forms based on user needs
+- [ElephantSQL](https://customer.elephantsql.com/subscription/create?plan=turtle) -  PostgreSQL as a Service. Perfectly configured and optimized PostgreSQL databases ready in 2 minutes
+- [Obvibase](https://www.obvibase.com/) -  Obvibase makes creating an online database as easy and fast as creating a spreadsheet
+- [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
+- [Theodinproject](https://www.theodinproject.com/) - Learn everything you need to know to become a web developer
+- [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code for free by creating thousands of videos, articles, and interactive coding lessons
 
-Contributions are always appreciated
+https://www.obvibase.com/Contributions are always appreciated
 
 ### Credits:
 A big thanks to [Amy Chan](https://github.com/ANAMIKAPISHARODY)
