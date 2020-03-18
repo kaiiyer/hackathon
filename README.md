@@ -53,15 +53,24 @@ This list can help any dev save hours or even days of development time and can a
 ## Free Resources
 ### General
 - [Typeform](https://www.typeform.com/) - Typeform specializes in online form building and online surveys. It creates dynamic forms based on user needs
+- [UI Cloud](http://ui-cloud.com/) - The largest user interface design database in the world
 - [ElephantSQL](https://customer.elephantsql.com/subscription/create?plan=turtle) -  PostgreSQL as a Service. Perfectly configured and optimized PostgreSQL databases ready in 2 minutes
 - [Obvibase](https://www.obvibase.com/) -  Obvibase makes creating an online database as easy and fast as creating a spreadsheet
+- [Marvel](https://marvelapp.com/resources/) - A library of educational gems that’ll get you up to speed with all things Marvel
+- <b>[UI Space](https://uispace.net/)</b> - Thousands of great freebies. Search for high quality and hand-crafted freebies
+- [Github Education Pack](https://education.github.com/pack) - Learn to ship software like a pro
+
 
 
 ### Learn
 - [Noexcuselist](http://noexcuselist.com/) - The best place on the web to learn anything for free
 - [Theodinproject](https://www.theodinproject.com/) - Learn everything you need to know to become a <b>web developer</b>
+- [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
-- [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code for free by creating thousands of videos, articles, and interactive coding lessons
+- [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code by creating thousands of videos,articles, and interactive coding lessons
+
+
+- [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better
 
 Contributions are always appreciated
 
