@@ -53,14 +53,16 @@ This list can help any dev save hours or even days of development time and can a
 ## Free Resources
 ### General
 - [Typeform](https://www.typeform.com/) - Typeform specializes in online form building and online surveys. It creates dynamic forms based on user needs
-- [UI Cloud](http://ui-cloud.com/) - The largest user interface design database in the world
 - [ElephantSQL](https://customer.elephantsql.com/subscription/create?plan=turtle) -  PostgreSQL as a Service. Perfectly configured and optimized PostgreSQL databases ready in 2 minutes
 - [Obvibase](https://www.obvibase.com/) -  Obvibase makes creating an online database as easy and fast as creating a spreadsheet
 - [Marvel](https://marvelapp.com/resources/) - A library of educational gems that’ll get you up to speed with all things Marvel
 - <b>[UI Space](https://uispace.net/)</b> - Thousands of great freebies. Search for high quality and hand-crafted freebies
 - [Github Education Pack](https://education.github.com/pack) - Learn to ship software like a pro
+- [Germ](https://germ.io/) - Germ lets your team capture every great idea, brainstorm, and turn them into actionable project plans
 
-
+### Design
+- [Tethr](https://www.invisionapp.com/inside-design/design-resources/tethr/) - Mobile prototyping made easy
+- [UI Cloud](http://ui-cloud.com/) - The largest user interface design database in the world
 
 ### Learn
 - [Noexcuselist](http://noexcuselist.com/) - The best place on the web to learn anything for free
@@ -69,10 +71,9 @@ This list can help any dev save hours or even days of development time and can a
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 - [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code by creating thousands of videos,articles, and interactive coding lessons
 
-
-- [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better
+### Productivity
+- [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6) - Music to help you concentrate
+- [Coffitivity](https://coffitivity.com/) - Recreates the ambient sounds of a cafe to boost your creativity and help you work better
+- [Defonic](https://defonic.com/) - Combine the sounds of the world into a melody
 
 Contributions are always appreciated
-
-### Credits:
-A big thanks to [Amy Chan](https://github.com/ANAMIKAPISHARODY)
