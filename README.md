@@ -49,6 +49,7 @@ This list can help any dev save hours or even days of development time and can a
 - [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) - All-in-one platform for hackathon registration & logistics
 - [Gavel](https://github.com/anishathalye/gavel) - Gavel is a project expo judging system
 - [Expo](https://github.com/nealrs/expo) - An expo / table numbers app for your Devpost hackathon
+- [HELPq](https://github.com/ehzhang/HELPq) - An extensible real-time queue application, for mentorship @hackathons and classrooms
 
 ## Free Resources
 ### General
