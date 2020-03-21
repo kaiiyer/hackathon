@@ -56,11 +56,11 @@ This list can help any dev save hours or even days of development time and can a
 - [ElephantSQL](https://customer.elephantsql.com/subscription/create?plan=turtle) -  PostgreSQL as a Service. Perfectly configured and optimized PostgreSQL databases ready in 2 minutes
 - [Obvibase](https://www.obvibase.com/) -  Obvibase makes creating an online database as easy and fast as creating a spreadsheet
 - [Marvel](https://marvelapp.com/resources/) - A library of educational gems that’ll get you up to speed with all things Marvel
-- <b>[UI Space](https://uispace.net/)</b> - Thousands of great freebies. Search for high quality and hand-crafted freebies
 - [Github Education Pack](https://education.github.com/pack) - Learn to ship software like a pro
 - [Germ](https://germ.io/) - Germ lets your team capture every great idea, brainstorm, and turn them into actionable project plans
 
 ### Design
+- <b>[UI Space](https://uispace.net/)</b> - Thousands of great freebies. Search for high quality and hand-crafted freebies
 - [Tethr](https://www.invisionapp.com/inside-design/design-resources/tethr/) - Mobile prototyping made easy
 - [UI Cloud](http://ui-cloud.com/) - The largest user interface design database in the world
 
@@ -70,6 +70,7 @@ This list can help any dev save hours or even days of development time and can a
 - [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 - [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code by creating thousands of videos,articles, and interactive coding lessons
+- [Machine Learnings](https://machinelearnings.co/) -Understand how AI will change your work and life
 
 ### Productivity
 - [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6) - Music to help you concentrate
