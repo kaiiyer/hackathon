@@ -21,6 +21,7 @@ This list can help any dev save hours or even days of development time and can a
 - [IM FREE](http://imcreator.com/free) - A curated collection of free web design resources, all for commercial use.
 - [StartBootstrap](https://startbootstrap.com/) - Develops free to download, open source Bootstrap4 themes, templates, and snippets and creates guides and tutorials to help you learn more about designing and developing with Bootstrap.
 - [ColorLib](https://themewagon.com/author/kimlabs/) - Get the exclusive free HTML5 templates designed with Bootstrap, CSS3, jQuery from ThemeWagon. They offer comprehensive yet easy to follow guides well suited for beginner bloggers.
+- [Freebiesbug](https://freebiesbug.com/) - Hand-picked resources for web designer and developers, constantly updated.
 
 ## Hackathon Starters
 - [Node Boilerplate](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
