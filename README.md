@@ -63,6 +63,7 @@ This list can help any dev save hours or even days of development time and can a
 ### Design
 - <b>[UI Space](https://uispace.net/)</b> - Thousands of great freebies. Search for high quality and hand-crafted freebies
 - [Tethr](https://www.invisionapp.com/inside-design/design-resources/tethr/) - Mobile prototyping made easy
+- [Awesome Designs](https://github.com/alexpate/awesome-design-systems) - A collection of awesome design systems 
 - [UI Cloud](http://ui-cloud.com/) - The largest user interface design database in the world
 
 ### Learn
