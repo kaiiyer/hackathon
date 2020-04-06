@@ -62,6 +62,7 @@ This list can help any dev save hours or even days of development time and can a
 - [Germ](https://germ.io/) - Germ lets your team capture every great idea, brainstorm, and turn them into actionable project plans
 
 ### Design
+- <b>[Booklets](https://www.booklets.io/)</b> - Bite sized learning for creatives. Learn concepts from some of the world’s best designers
 - <b>[UI Space](https://uispace.net/)</b> - Thousands of great freebies. Search for high quality and hand-crafted freebies
 - [Tethr](https://www.invisionapp.com/inside-design/design-resources/tethr/) - Mobile prototyping made easy
 - [Awesome Designs](https://github.com/alexpate/awesome-design-systems) - A collection of awesome design systems 
