@@ -70,6 +70,7 @@ This list can help any dev save hours or even days of development time and can a
 
 ### Learn
 - [Noexcuselist](http://noexcuselist.com/) - The best place on the web to learn anything for free
+- [Brilliant](https://brilliant.org/) - Learn to think. Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations
 - [Theodinproject](https://www.theodinproject.com/) - Learn everything you need to know to become a <b>web developer</b>
 - [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
