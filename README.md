@@ -18,10 +18,11 @@ This list can help any dev save hours or even days of development time and can a
 ## WebApp Templates
 - [WIX](https://www.wix.com/) - Wix provides cloud-based web development services that gives you the freedom to create, design, manage and develop your web presence exactly the way you want
 - [HTML5UP](https://html5up.net/) - .Makes spiffy HTML5 site templates that are Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable
-- [IM FREE](http://imcreator.com/free) - A curated collection of free web design resources, all for commercial use.
-- [StartBootstrap](https://startbootstrap.com/) - Develops free to download, open source Bootstrap4 themes, templates, and snippets and creates guides and tutorials to help you learn more about designing and developing with Bootstrap.
-- [ColorLib](https://themewagon.com/author/kimlabs/) - Get the exclusive free HTML5 templates designed with Bootstrap, CSS3, jQuery from ThemeWagon. They offer comprehensive yet easy to follow guides well suited for beginner bloggers.
-- [Freebiesbug](https://freebiesbug.com/) - Hand-picked resources for web designer and developers, constantly updated.
+- [One Page Love](https://onepagelove.com/) - One Page websites, templates and resources
+- [IM FREE](http://imcreator.com/free) - A curated collection of free web design resources, all for commercial use
+- [StartBootstrap](https://startbootstrap.com/) - Develops free to download, open source Bootstrap4 themes, templates, and snippets and creates guides and tutorials to help you learn more about designing and developing with Bootstrap
+- [ColorLib](https://themewagon.com/author/kimlabs/) - Get the exclusive free HTML5 templates designed with Bootstrap, CSS3, jQuery from ThemeWagon. They offer comprehensive yet easy to follow guides well suited for beginner bloggers
+- [Freebiesbug](https://freebiesbug.com/) - Hand-picked resources for web designer and developers, constantly updated
 
 ## Hackathon Starters
 - [Node Boilerplate](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -64,6 +65,8 @@ This list can help any dev save hours or even days of development time and can a
 ### Design
 - <b>[Booklets](https://www.booklets.io/)</b> - Bite sized learning for creatives. Learn concepts from some of the world’s best designers
 - <b>[UI Space](https://uispace.net/)</b> - Thousands of great freebies. Search for high quality and hand-crafted freebies
+- [Product Disrupt](https://productdisrupt.com) - Disruptive List of Resources to Learn Product Design
+- [InVision](https://www.invisionapp.com/) - The digital product design platform powering the world’s best user experiences
 - [Tethr](https://www.invisionapp.com/inside-design/design-resources/tethr/) - Mobile prototyping made easy
 - [Awesome Designs](https://github.com/alexpate/awesome-design-systems) - A collection of awesome design systems 
 - [UI Cloud](http://ui-cloud.com/) - The largest user interface design database in the world
