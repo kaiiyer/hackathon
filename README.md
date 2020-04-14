@@ -8,6 +8,8 @@ If you have attended any hackathons in the past, then you know how much time it 
 
 This list can help any dev save hours or even days of development time and can also serve as a learning guide for hackers.
 
+<img src="https://user-images.githubusercontent.com/24914913/79194931-0a610980-7e4b-11ea-99ab-461601a5cd90.jpg" alt="Hackers at Hackathon" width=70% />
+
 # Contents
 
 - [WebApp Templates](#WebApp-Templates)
