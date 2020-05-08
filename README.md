@@ -63,6 +63,7 @@ This list can help any dev save hours or even days of development time and can a
 - [Marvel](https://marvelapp.com/resources/) - A library of educational gems that’ll get you up to speed with all things Marvel
 - [Github Education Pack](https://education.github.com/pack) - Learn to ship software like a pro
 - [Germ](https://germ.io/) - Germ lets your team capture every great idea, brainstorm, and turn them into actionable project plans
+- [Hover](https://www.usehover.com/) - USSD for Android devs
 
 ### Design
 - <b>[Booklets](https://www.booklets.io/)</b> - Bite sized learning for creatives. Learn concepts from some of the world’s best designers
