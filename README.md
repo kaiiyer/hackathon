@@ -81,7 +81,8 @@ This list can help any dev save hours or even days of development time and can a
 - [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 - [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code by creating thousands of videos,articles, and interactive coding lessons
-- [Machine Learnings](https://machinelearnings.co/) -Understand how AI will change your work and life
+- [Machine Learnings](https://machinelearnings.co/) - Understand how AI will change your work and life
+- [Open Source Guides](https://opensource.guide/) - Learn how to launch and grow your project 
 
 ### Productivity
 - [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6) - Music to help you concentrate
