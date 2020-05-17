@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/kaiiyer/hackathon)](https://github.com/kaiiyer/hackathon/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/kaiiyer/hackathon.svg)](https://GitHub.com/kaiiyer/hackathon/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/kaiiyer/hackathon.svg)](https://GitHub.com/kaiiyer/hackathon/pull/)
-[![GitHub contributors](https://img.shields.io/github/contributors/kaiiyer/webtech.svg)](https://GitHub.com/kaiiyer/hackathon/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/kaiiyer/hackathon.svg)](https://GitHub.com/kaiiyer/hackathon/graphs/contributors/)
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaiiyer/hackathon.svg)
 
 
