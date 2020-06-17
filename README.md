@@ -42,6 +42,7 @@ This list can help any dev save hours or even days of development time and can a
 - [AdonisJS Boilerplate](https://github.com/iamraphson/adonisjs-hackathon-starter) - A boilerplate application developed with AdonisJS 4.0 to keep you ahead in hackathons
 - [Express Boilerplate](https://github.com/yhnavein/express-starter) - A boilerplate for Node.js web applications, which use RDBS (relational database system) with prefered PostgreSQL instead of overhyped MongoDB
 - [Android Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture
+- [Flutter Boilerplate](https://github.com/acelords/flutter-starter-kit) - A Flutter Starter Kit (Boilerplate) to kick-start your next Android and iOS app
 - [Kotlin Boilerplate](https://github.com/Plastix/Kotlin-Android-Boilerplate) - Kotlin Android boilerplate project with MVVM architecture using RxJava, Dagger 2, and more
 - [Go Blueprint](https://github.com/MartinHeinz/go-project-blueprint) - A Blueprint/Boilerplate For Golang Projects
 - [Oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -91,6 +92,16 @@ This list can help any dev save hours or even days of development time and can a
 - [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code by creating thousands of videos,articles, and interactive coding lessons
 - [Machine Learnings](https://machinelearnings.co/) - Understand how AI will change your work and life
 - [Open Source Guides](https://opensource.guide/) - Learn how to launch and grow your project 
+
+#### React
+- [Start Learning React](https://egghead.io/courses/start-learning-react) - This series will explore the basic fundamentals of React to get you started
+- [Intro to React](https://reactjs.org/tutorial/tutorial.html) - This tutorial doesn’t assume any existing React knowledge
+- [How to Learn React](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/) - A roadmap from beginner to advanced
+
+#### Flutter
+- [Flutter Example Apps](https://github.com/iampawan/FlutterExampleApps)
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+- [Flutter Studio](https://flutterstudio.app/)
 
 ### Productivity
 - [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6) - Music to help you concentrate
