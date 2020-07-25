@@ -92,6 +92,8 @@ This list can help any dev save hours or even days of development time and can a
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 - [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code by creating thousands of videos,articles, and interactive coding lessons
 - [Machine Learnings](https://machinelearnings.co/) - Understand how AI will change your work and life
+- [Interneting Is Hard](https://www.internetingishard.com/) - Friendly web development tutorials for complete beginners
+- [Scrimba](https://scrimba.com/) - New Career Path: Become a Frontend Developer
 - [Open Source Guides](https://opensource.guide/) - Learn how to launch and grow your project 
 
 #### React
