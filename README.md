@@ -68,6 +68,7 @@ This list can help any dev save hours or even days of development time and can a
 ## Free Resources
 ### General
 - [Typeform](https://www.typeform.com/) - Typeform specializes in online form building and online surveys. It creates dynamic forms based on user needs
+- [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - The largest API directory on the Web
 - [ElephantSQL](https://customer.elephantsql.com/subscription/create?plan=turtle) -  PostgreSQL as a Service. Perfectly configured and optimized PostgreSQL databases ready in 2 minutes
 - [Obvibase](https://www.obvibase.com/) -  Obvibase makes creating an online database as easy and fast as creating a spreadsheet
 - [Marvel](https://marvelapp.com/resources/) - A library of educational gems that’ll get you up to speed with all things Marvel
@@ -84,12 +85,18 @@ This list can help any dev save hours or even days of development time and can a
 - [Tethr](https://www.invisionapp.com/inside-design/design-resources/tethr/) - Mobile prototyping made easy
 - [Awesome Designs](https://github.com/alexpate/awesome-design-systems) - A collection of awesome design systems 
 - [UI Cloud](http://ui-cloud.com/) - The largest user interface design database in the world
+- [unDraw](https://undraw.co/) - Free open source illustrations for all 
+- [humaaans](https://www.humaaans.com/) - Customize free illustrations of people
+- [Contrast Checker](https://contrastchecker.com/) - Test color contrast compliance with the Web Content Accessibility Guidelines (WCAG)
 
 ### Learn
 - [Noexcuselist](http://noexcuselist.com/) - The best place on the web to learn anything for free
 - [Brilliant](https://brilliant.org/) - Learn to think. Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations
 - [Theodinproject](https://www.theodinproject.com/) - Learn everything you need to know to become a <b>web developer</b>
 - [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
+- [Flexbox Froggy](https://flexboxfroggy.com/) -  An Interactive Game to learn Flexbox
+- [Learn CSS Grid](https://learncssgrid.com/) - A Complete Guide to CSS Grid
+- [Grid Garden](https://cssgridgarden.com/) - An Interactive Game to learn Grid
 - [Learnxinyminutes](https://learnxinyminutes.com/) - Take a whirlwind tour of your next favorite language. Community-driven!
 - [Freecodecamp](https://www.freecodecamp.org/) - To help people learn to code by creating thousands of videos,articles, and interactive coding lessons
 - [Machine Learnings](https://machinelearnings.co/) - Understand how AI will change your work and life
@@ -111,5 +118,6 @@ This list can help any dev save hours or even days of development time and can a
 - [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6) - Music to help you concentrate
 - [Coffitivity](https://coffitivity.com/) - Recreates the ambient sounds of a cafe to boost your creativity and help you work better
 - [Defonic](https://defonic.com/) - Combine the sounds of the world into a melody
+- [Notion](https://www.notion.so/) - An all-in-one workspace supporting various databases, kanban boards, wikis, calendars and reminders
 
 Contributions are always appreciated
