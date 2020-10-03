@@ -64,6 +64,7 @@ This list can help any dev save hours or even days of development time and can a
 - [Gavel](https://github.com/anishathalye/gavel) - Gavel is a project expo judging system
 - [Expo](https://github.com/nealrs/expo) - An expo / table numbers app for your Devpost hackathon
 - [HELPq](https://github.com/ehzhang/HELPq) - An extensible real-time queue application, for mentorship @hackathons and classrooms
+- [Nucleus](https://github.com/hacktx/nucleus) -  A comprehensive hackathon application system that from HackTX. Built using PHP
 
 ## Free Resources
 ### General
