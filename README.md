@@ -73,6 +73,7 @@ This list can help any dev save hours or even days of development time and can a
 - [Machine Learnings](https://machinelearnings.co/) - Understand how AI will change your work and life
 - [Interneting Is Hard](https://www.internetingishard.com/) - Friendly web development tutorials for complete beginners
 - [Scrimba](https://scrimba.com/) - New Career Path: Become a Frontend Developer
+- [Datacamp](https://www.datacamp.com/) - Whether you're starting from scratch or working towards a promotion, DataCamp has a learning journey waiting for you
 
 ### Productivity
 - [Spotify](https://open.spotify.com/playlist/37i9dQZF1DX8NTLI2TtZa6) - Music to help you concentrate
