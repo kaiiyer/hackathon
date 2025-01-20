@@ -9,7 +9,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/kaiiyer/hackathon.svg)](https://GitHub.com/kaiiyer/hackathon/graphs/contributors/)
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaiiyer/hackathon.svg)
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=247678313" height="20">](https://api.gitsponsors.com/api/badge/link?p=i3Eyp6CdJkUpS2AtXl/2fD1zcrfpYdI/w7yyg38xSbRRLsOK6+A3Me9Bl9n2VIhD)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=247678313" height="20">](https://api.gitsponsors.com/api/badge/link?p=i3Eyp6CdJkUpS2AtXl/2fJqE90B8GCJf7lPs7q2Y7q05yyk5TpTVPUZEEa91s7YVS5jm1TpQ/lia/VtsHYPUy0g5ouJWjF8ckP5xpd1DqPbf30gDhocGHLmya3y1/Vaj1Nvyw5CIZcKhkgs2uZ/r0Q==)
 
 
 *A curated list of templates and resources which can be used as a starter pack for hackathon. This list aims to help starters as well as pros to get started with project development without wasting time on environment setup and package instalations.*
